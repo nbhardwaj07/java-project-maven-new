@@ -92,7 +92,7 @@
                 <div class="card-body">
                     <h2 class="name">Avengers Endgame</h2>
                     <h6 class="des">Shantan ipsum dolor helo consectetur elit.</h6>
-                    <button class="watchlist-btn">add to watchlist</button>
+                    <button class="watchlistu-btn">add to watchlist</button>
                 </div>
             </div>
             <div class="card">
